@@ -54,6 +54,7 @@ Esta operación sirve para representar la unión de dos condiciones.
 
 +++
 @snap[midpoint]
+@transition[none]
 ![AND](assets/img/AND.png)
 @snapend
 
@@ -95,7 +96,8 @@ Esta operación sirve para representar la suma de dos condiciones.
 
 +++
 @snap[midpoint]
-![AND](assets/img/OR.png)
+@transition[none]
+![OR](assets/img/OR.png)
 @snapend
 
 @snap[south span-100 text-white]
@@ -129,7 +131,8 @@ Esta operación sirve para invertir una expresión.
 
 +++
 @snap[midpoint]
-![AND](assets/img/OR.png)
+@transition[none]
+![NOT](assets/img/NOT.png)
 @snapend
 
 @snap[south span-100 text-white]
