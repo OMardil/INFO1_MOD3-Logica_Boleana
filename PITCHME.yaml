@@ -40,7 +40,7 @@ layout : top-left
 footnote : "Lógica boleana"
 
 # Transition
-transition : slide
+transition : none
 
 # Charts
 charts: true
