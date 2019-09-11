@@ -37,7 +37,7 @@ layout : top-left
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Representación de Información"
+footnote : "Lógica boleana"
 
 # Transition
 transition : slide
@@ -67,6 +67,6 @@ mathjax : TeX-MML-AM_HTMLorMML-full
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Representación de Información"
-description : "Reperesentación de información."
+title : "Lógica boleana"
+description : "Lógica boleana."
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png

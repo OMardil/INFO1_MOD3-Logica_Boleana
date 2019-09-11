@@ -94,6 +94,17 @@ Esta operación sirve para representar la suma de dos condiciones.
 @snapend
 
 +++
+@snap[midpoint]
+![AND](assets/img/OR.png)
+@snapend
+
+@snap[south span-100 text-white]
+La suma de la gente que le gustan los perros y gatos.
+
+@snapend
+
+
++++
 ## NOT
 
 @snap[text-08 fragment span-50 west]
@@ -115,6 +126,17 @@ Recibe una entrada, @css[text-green text-bold](E1). Realiza la negación del arg
 @snap[south span-100 text-white]
 Esta operación sirve para invertir una expresión.
 @snapend
+
++++
+@snap[midpoint]
+![AND](assets/img/OR.png)
+@snapend
+
+@snap[south span-100 text-white]
+La gente a la que NO le gustan los gatos.
+@snapend
+
+
 ---
 ## Tablas de Verdad
 Las tablas de verdad son una representación de las posibles entradas y salidas de un proceso. En una tabla de verdad, cada uno de los componentes debe ser representado en binario como TRUE o FALSE.
@@ -175,3 +197,10 @@ Z = La persona entra al bar
 @snap[fragment east span-50]
 ![BAR_5](assets/img/bar_5.png)
 @snapend
+
+@snap[south span-100 text-white fragment]
+¿Y si agregamos una nueva regla? Sólo entra la gente vestida de verde o de blanco.
+@snapend
+
++++
+![](assets/img/bar_2nd_example.png)
