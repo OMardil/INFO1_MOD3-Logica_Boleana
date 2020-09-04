@@ -25,7 +25,7 @@ Permiten representar expresiones boleanas que usaremos más adelante para progra
 +++
 ## NOT
 @snap[text-08 fragment span-50 west]
-Recibe una entrada, @css[text-green text-bold](E1). Realiza la negación del argumento, _también llamado complemento_.
+Recibe una entrada, @css[text-green text-bold](E1). Invierte el argumento de entrada @css[text-green text-bold](E1). Lo que es ``true`` lo convierte en ``false`` y ``false`` en ``true``.
 @snapend
 
 @snap[fragment east span-50]
