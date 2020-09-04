@@ -10,17 +10,50 @@ El álgebra boleana es una rama del álgebra en donde los posibles valores de va
 <br><br>
 Los operadores más comunes son:
 @snapend
-@snap[text-08]
+@snap[text-07]
 @ul[]
-* @css[text-green text-bold](AND) 
+* @css[text-green text-bold](NOT) 
 * @css[text-green text-bold](OR)
-* @css[text-green text-bold](NOT)
+* @css[text-green text-bold](AND)
 @ulend
 @snapend
 
 @snap[south text-white span-100 text-08]
 Permiten representar expresiones boleanas que usaremos más adelante para programar.
 @snapend 
+
++++
+## NOT
+@snap[text-08 fragment span-50 west]
+Recibe una entrada, @css[text-green text-bold](E1). Realiza la negación del argumento, _también llamado complemento_.
+@snapend
+
+@snap[fragment east span-50]
+![NOT_1](assets/data/NOT_1.png)
+@snapend
+
+@snap[fragment east span-50]
+![NOT_2](assets/data/NOT_2.png)
+@snapend
+
+@snap[fragment east span-50]
+![NOT_3](assets/data/NOT_3.png)
+@snapend
+
+@snap[south span-100 text-white]
+Esta operación sirve para invertir una expresión.
+@snapend
+
++++
+@snap[midpoint]
+@transition[none]
+![NOT](assets/img/NOT.png)
+@snapend
+
+@snap[south span-100 text-white]
+La gente a la que NO le gustan los gatos.
+@snapend
+
 
 +++
 ## AND
@@ -104,41 +137,6 @@ Esta operación sirve para representar la suma de dos condiciones.
 La suma de la gente que le gustan los perros y gatos.
 
 @snapend
-
-
-+++
-## NOT
-
-@snap[text-08 fragment span-50 west]
-Recibe una entrada, @css[text-green text-bold](E1). Realiza la negación del argumento, _también llamado complemento_.
-@snapend
-
-@snap[fragment east span-50]
-![NOT_1](assets/data/NOT_1.png)
-@snapend
-
-@snap[fragment east span-50]
-![NOT_2](assets/data/NOT_2.png)
-@snapend
-
-@snap[fragment east span-50]
-![NOT_3](assets/data/NOT_3.png)
-@snapend
-
-@snap[south span-100 text-white]
-Esta operación sirve para invertir una expresión.
-@snapend
-
-+++
-@snap[midpoint]
-@transition[none]
-![NOT](assets/img/NOT.png)
-@snapend
-
-@snap[south span-100 text-white]
-La gente a la que NO le gustan los gatos.
-@snapend
-
 
 ---
 ## Tablas de Verdad
