@@ -140,7 +140,7 @@ Esta operación sirve para representar la suma de dos condiciones.
 
 ---
 ## Tablas de Verdad
-Las tablas de verdad son una representación de las posibles entradas y salidas de un proceso. En una tabla de verdad, cada uno de los componentes debe ser representado en binario como TRUE o FALSE.
+Las tablas de verdad son una representación de las posibles entradas y salidas de un proceso. En una tabla de verdad, cada uno de los componentes debe ser representado en binario como `true` o ``false``.
 
 +++
 @snap[north-west text-06]
