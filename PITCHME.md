@@ -24,9 +24,10 @@ Permiten representar expresiones boleanas que usaremos más adelante para progra
 
 +++
 ## NOT
-@snap[text-08 fragment span-50 west]
+@snap[text-08 fragment span-65 west]
 Recibe una entrada, @css[text-green text-bold](E1). Invierte el argumento de entrada @css[text-green text-bold](E1). 
-Lo que es ``true`` lo convierte en ``false`` y ``false`` en ``true``.
+Lo que es ``true`` se convierte en ``false``.
+Lo que es ``false`` se convierte en ``true``.
 @snapend
 
 @snap[fragment east span-50]
@@ -52,7 +53,7 @@ Esta operación sirve para invertir una expresión.
 @snapend
 
 @snap[south span-100 text-white]
-La gente a la que NO le gustan los gatos.
+Universo pertenece a: ``NOT kitten``
 @snapend
 
 
