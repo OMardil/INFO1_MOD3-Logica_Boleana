@@ -53,9 +53,8 @@ Esta operación sirve para invertir una expresión.
 @snapend
 
 @snap[south span-100 text-white]
-Universo pertenece a: ``NOT kitten``
+``NOT kitten``
 @snapend
-
 
 +++
 ## AND
@@ -94,7 +93,7 @@ Esta operación sirve para representar la unión de dos condiciones.
 @snapend
 
 @snap[south span-100 text-white]
-La unión representa la gente que le gustan los gatos y perros.
+``puppy AND kitten``
 @snapend
 
 +++
@@ -136,8 +135,7 @@ Esta operación sirve para representar la suma de dos condiciones.
 @snapend
 
 @snap[south span-100 text-white]
-La suma de la gente que le gustan los perros y gatos.
-
+``puppy OR kitten``
 @snapend
 
 ---
